@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "questionText": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswer": "Paris",
+    "timeLimit": 15
+  },
+  {
+    "id": 2,
+    "questionText": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correctAnswer": "Mars",
+    "timeLimit": 10
+  },
+  {
+    "id": 3,
+    "questionText": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correctAnswer": "Pacific Ocean",
+    "timeLimit": 20
+  },
+  {
+    "id": 4,
+    "questionText": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "correctAnswer": "William Shakespeare",
+    "timeLimit": 15
+  },
+  {
+    "id": 5,
+    "questionText": "What is the chemical symbol for water?",
+    "options": ["O2", "H2O", "CO2", "NaCl"],
+    "correctAnswer": "H2O",
+    "timeLimit": 10
+  }
+]
